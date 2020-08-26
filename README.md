@@ -1,6 +1,6 @@
-# ade_wallet
+# Dark-And-Light-Theme-Wallet-App
 
-A new Flutter application.
+Dark-And-Light-Theme-Wallet-App
 
 ## Getting Started
 
